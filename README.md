@@ -1,10 +1,13 @@
 # <Project Title>
 
-> One-liner: what this repo demonstrates (e.g., “Azure Sentinel detections + incident write-ups”)
+GRC Repo (Policies + Risk)
 
 ## 🎯 Objectives
-- What you set out to learn/build
-- Which security domain(s) this covers (SIEM, IR, GRC, Cloud, etc.)
+- Security policies
+- Governance frameworks
+- Risk matrix
+- Gap analysis
+- Compliance-style do
 
 ## 🧪 What’s Inside
 - `docs/` – reports, playbooks, baselines, diagrams
