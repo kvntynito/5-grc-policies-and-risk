@@ -10,7 +10,7 @@ It includes security policies, risk matrices, governance documentation, and fram
 - Gap analysis
 - Compliance-style do
 
-## 🧪 What’s Inside
+## 📁 What’s Inside
 - `docs/` – reports, playbooks, baselines, diagrams
 - `scripts/` – Python/PowerShell/Bash utilities
 - `lab/` – sample logs, datasets, IaC
@@ -56,7 +56,7 @@ You populate the Risk_Matrix_TEMPLATE.csv with actual risks from:
 
 This gives you real GRC practice.
 
-## 🏗️ Lab Setup (Optional)
+## 🧪 Lab Setup (Optional)
 Most GRC work is documentation-based, but this repo may reference:
 
 - screenshots from Azure Secure Score
