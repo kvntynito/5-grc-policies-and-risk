@@ -1,4 +1,4 @@
-# <Project Title>
+## GRC Policies & Risk
 
 This project demonstrates core Governance, Risk, and Compliance (GRC) skills used across cybersecurity programs.
 It includes security policies, risk matrices, governance documentation, and framework mapping to standards such as NIST CSF, NIST 800-53, ISO27001, and PCI-DSS.
