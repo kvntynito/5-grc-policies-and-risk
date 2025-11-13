@@ -4,47 +4,51 @@ This project demonstrates core Governance, Risk, and Compliance (GRC) skills use
 It includes security policies, risk matrices, governance documentation, and framework mapping to standards such as NIST CSF, NIST 800-53, ISO27001, and PCI-DSS.
 
 ## 🎯 Objectives
-- Security policies
-- Governance frameworks
-- Risk matrix
-- Gap analysis
-- Compliance-style do
+
+- Create enterprise-grade security policies
+- Perform qualitative & semi-quantitative risk analysis
+- Build a standardized risk matrix
+- Document governance requirements
+- Map controls to industry frameworks
 
 ## 📁 What’s Inside
-- `docs/` – reports, playbooks, baselines, diagrams
-- `scripts/` – Python/PowerShell/Bash utilities
-- `lab/` – sample logs, datasets, IaC
-- `.github/` – issue/PR templates
+docs/       - Policies, risk matrix, templates, framework mappings
+lab/        - Optional evidence: screenshots, findings, posture data
+scripts/    - Optional automation (policy checks, CSV handling)
+.github/    - Issue/PR templates
 
-## 📜 Policies Included
+## 📜 Security Policies Included
 
 This repo includes (or will include) several foundational security policies:
 
-✅ Acceptable Use Policy (AUP)
+- Acceptable Use Policy (AUP)
+- Access Control Policy
+- Incident Response Policy
+- Change Management Policy
+- Vulnerability Management Policy
+- Logging & Monitoring Policy
+- Backup & Recovery Policy
 
-✅ Access Control Policy
 
-✅ Incident Response Policy
-
-✅ Change Management Policy
-
-✅ Vulnerability Management Policy
-
-✅ Logging & Monitoring Policy
-
-✅ Backup & Recovery Policy
-
-These are written in clear, professional formats used in real organizations.
+Each policy follows a professional structure:
+- Purpose
+- Scope
+- Roles & responsibilities
+- Requirements
+- Enforcement
+- Definitions (optional)
+- Versioning
 
 ## 📊 Risk Management
 
 This repo includes:
 
-✅ Risk Matrix (Likelihood × Impact)
-✅ Heat map representation
-✅ Risk scoring methodology
-✅ Controls mapped to risks
-✅ Recommendations section
+
+- Risk Matrix (Likelihood × Impact)
+- Heat map representation
+- Risk scoring methodology
+- Controls mapped to risks
+- Recommendations section
 
 You populate the Risk_Matrix_TEMPLATE.csv with actual risks from:
 
@@ -67,7 +71,7 @@ Most GRC work is documentation-based, but this repo may reference:
 You can include these in /lab/ to support risk scoring or control justification.
 
 ## ▶️ How to Use This Repo
-✅ **1. Fill out the Risk Matrix**
+**1. Fill out the Risk Matrix**
 
 Use realistic organizational risks such as:
 - Weak password policies
@@ -84,7 +88,7 @@ Score each one on:
 - Risk rating
 - Assigned controls
 
-✅ **2. Write or refine security policies**
+**2. Write or refine security policies**
 
 Each policy should include:
 - Purpose
@@ -96,7 +100,7 @@ Each policy should include:
 
 Use the templates inside docs/.
 
-✅ **3. Map policies to frameworks**
+**3. Map policies to frameworks**
 
 Optional but extremely impressive to recruiters:
 
