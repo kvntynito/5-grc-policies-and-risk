@@ -132,12 +132,24 @@ Optional but extremely impressive to recruiters:
 - How to translate technical vulnerabilities into business risk
 
 ## ✅ Next Steps
-- Add more detailed policies (e.g., Data Classification, Mobile Device Security)
-- Build a full risk register
-- Map your own Vuln Management repo findings into this risk matrix
-- Create a small compliance checklist for NIST CSF
-- Add “audit evidence” examples in the lab folder
-- Add a Policy Exception Request form (very realistic enterprise artifact)
+
+- Add Data Classification & Handling Policy
+- Add Mobile Device / BYOD Security Policy
+- Build a formal Risk Register
+- Link Repo 2 findings (OpenVAS) to this risk matrix
+- Create a NIST CSF compliance checklist
+- Include “audit evidence” examples in /lab
+- Add a Policy Exception Request form (highly realistic for enterprise GRC)
+
+## Related Projects 
+
+🔎 Repo 2 – Vulnerability Management
+Pull real findings into your GRC risk matrix.
+https://github.com/kvntynito/2-vuln-mgmt-openvas-lab
+
+🔐 Repo 3 – Endpoint Hardening
+Use hardening gaps as evidence in risk scoring.
+https://github.com/kvntynito/3-endpoint-hardening-windows-linux
 
 ## ⚖️ License
 MIT – see `LICENSE`.
