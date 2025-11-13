@@ -124,7 +124,6 @@ Optional but extremely impressive to recruiters:
 ✅ Optional diagrams
 
 ## 🧠 What I Learned
-- Bullet points of concepts/skills you gained - Write what you learned about frameworks, policies, risk.
 - How risk is calculated using qualitative & semi-quantitative scoring
 - How policies support technical and administrative controls
 - The structure of real-world security documentation
